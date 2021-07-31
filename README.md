@@ -7,6 +7,6 @@ In this work we present MILLIEAR a millimeter-wave based system for acoustic eav
 
 The audio obtained using MILLIEAR and the original audio can be found in the files
 
-Original Audio: milliear/sample_original.wav
+samples for real Audio: milliear/real_audio/
 
-Audio from MILLIEAR: milliear/sample_reconstructed.wav
+corresponding samples from MILLIEAR: milliear/reconstructed_audio/
